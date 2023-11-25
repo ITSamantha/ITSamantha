@@ -3,7 +3,7 @@
 ## :sparkles:About me
 Good day! :wave:
 
-I am Savelyeva Diana. My age is 20. I am a perspective and hardworking programmer. 
+I am Savelyeva Diana. My age is 20. I am a perspective and hardworking programmer. :computer:
 
 I am student of ITMO University, 3rd year of education. My program of education is Software Engineering. The specialization of my educational program is System and Application software.
 
@@ -104,7 +104,6 @@ My main technical stack includes Python, especially Django and Flask. Also I hav
 <br>
 
 ## :sparkles:Experience
-
 ### Work experience
 
   - ### **Online school of programming Rebotica**
@@ -115,34 +114,50 @@ My main technical stack includes Python, especially Django and Flask. Also I hav
 
 <br>
 
-### Projects
+## :sparkles:Projects
+
+My different types of projects:
 
 ### Course works
 - The subject "Object-oriented programming". The course work consisted in the development of a console application for a given subject area "Bookstore".
 - Subject "Theory of algorithms and formal languages". The course work consisted in writing a single-tape and multi-tape Turing machine corresponding to a certain rule in the chosen programming language.
-- The subject of "Databases". The course work was to create an information system for the subject area "Video rentals of the city". 
+- The subject of "Databases". The course work was to create an information system for the subject area "Video rentals of the city".
+  
   ___PL: C#___      https://github.com/ITSamantha/db-videorentals-course-work
 - The subject "Architecture and software design". The course work consisted in designing the application architecture and applying patterns for the financial planning system of a small enterprise, as well as writing several application modules.
 - The subject is "Operating systems". The course work consisted in designing your own file system based on existing tools, writing an emulator of the designed file system, as well as developing a process scheduler algorithm and implementing its emulator.
+  
   ___PL: C#___ https://github.com/ITSamantha/operational-systems-course-work
 - The subject is "Information systems and databases". The course work consisted of developing web-app (clothes online shop) using HTML, CSS, JS and Python, Django.
+  
   ___PL: Python   Framework: Django___ https://github.com/ITSamantha/db-clothes-shop-course-work
 
   <br>
   
 ### Personal projects
 - Clothes shop web-app Aesthetic Shop using HTML, CSS, JS, Python, Django.
+  
   https://github.com/ITSamantha/aesthetic-shop
+  
 - VK Hashtag Tracker for processing hashtags, making recommendations on posts using Python.
+  
   https://github.com/ITSamantha/vk-hashtag-tracker
+  
 - Desktop electronic recipe book MyCookbook using C#.
+  
   https://github.com/ITSamantha/my-cookbook
+
+  <br>
 
 ### Tournaments and hackathons
 - **Hackaton**. Telegram bot for inspection of insurance facilities for ___Sovkombank at Adventure League 2023___ using Python, Flask, PHP, Laravel.
+  
   https://github.com/ITSamantha/adventure-league-2023
+  
 - **Hackaton**. Railway traffic map for ___Data Wagon 2023 for the First Freight Company___ using Python, React.
+  
   https://github.com/ITSamantha/data-wagon-2023
+  
 
 <br>
 
@@ -153,6 +168,8 @@ I appreciate self-developing and it is the most important sphere in my life. So 
 - aiohttp
 - asyncio
 - Docker, Docker-Compose, Helm, Kubernetes
+
+<br>
 
 ## :sparkles:General GitHub activity
 <p>
