@@ -36,3 +36,5 @@ Hi there, I am Diana Savelyeva ✨
 
 ## General GitHub activity
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITSamantha)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSamantha)](https://github.com/anuraghazra/github-readme-stats)
