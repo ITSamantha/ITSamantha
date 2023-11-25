@@ -5,6 +5,7 @@ Hi there, I am Diana Savelyeva ✨
 
 
 ## Contacts
+<img width=20 height=20 src="https://camo.githubusercontent.com/cfafde708eca216c3179af85a0e7e4ab1e79de94a034c75fbc9e05d7f6e2d027/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" />&nbsp;Telegram: [di_svlv](https://t.me/di_svlv)
 
 
 ## Languages
