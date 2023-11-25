@@ -1,4 +1,4 @@
-# My CV
+# CV, Python Backend developer
 
 Hi there, I am Diana Savelyeva ✨
 
