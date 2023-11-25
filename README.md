@@ -55,6 +55,8 @@ Hi there, I am Diana Savelyeva  :wave:
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  />&nbsp;
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />&nbsp;
 </p>
+
+
 ### Other
 - ___Git___
 - ___HTML___
