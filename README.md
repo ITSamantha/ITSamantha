@@ -117,13 +117,19 @@ My main technical stack includes Python, especially Django and Flask. Also I hav
 
 ### Projects
 
-#### Course works
+### Course works
 - The subject "Object-oriented programming". The course work consisted in the development of a console application for a given subject area "Bookstore".
 - Subject "Theory of algorithms and formal languages". The course work consisted in writing a single-tape and multi-tape Turing machine corresponding to a certain rule in the chosen programming language.
-- The subject of "Databases". The course work was to create an information system for the subject area "Video rentals of the city".
+- The subject of "Databases". The course work was to create an information system for the subject area "Video rentals of the city". 
+  ___PL: C#___      https://github.com/ITSamantha/db-videorentals-course-work
 - The subject "Architecture and software design". The course work consisted in designing the application architecture and applying patterns for the financial planning system of a small enterprise, as well as writing several application modules.
 - The subject is "Operating systems". The course work consisted in designing your own file system based on existing tools, writing an emulator of the designed file system, as well as developing a process scheduler algorithm and implementing its emulator.
+  ___PL: C#___ https://github.com/ITSamantha/operational-systems-course-work
+- The subject is "Information systems and databases". The course work consisted of developing web-app (clothes online shop) using HTML, CSS, JS and Python, Django.
+  ___PL: Python   Framework: Django___ https://github.com/ITSamantha/db-clothes-shop-course-work
 
+  <br>
+  
 #### Personal projects
 
 
