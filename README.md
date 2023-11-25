@@ -1,16 +1,25 @@
 # Python Backend developer
 
-## About me
-Hi there, I am Diana Savelyeva ✨
+## :sparkles:About me
+Hi there, I am Diana Savelyeva  :wave:
 
+<br>
 
 ## Contacts
 <img width=20 height=20 src="https://camo.githubusercontent.com/cfafde708eca216c3179af85a0e7e4ab1e79de94a034c75fbc9e05d7f6e2d027/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" />&nbsp;Telegram: [di_svlv](https://t.me/di_svlv)
 
+<img width=20 height=20 src="https://github.com/ITSamantha/ITSamantha/assets/100091168/1faf78f0-80fc-4e03-990e-f02c1b48c555" />&nbsp;Gmail: diana.saveleva.dos@gmail.com
 
-## Languages
+<br>
 
-## Technical Stack
+## :sparkles:Languages
+- ___Russian___. Level: Native
+- ___English___. Level: B2, Upper-Indermediate
+- ___German___. Level: A1, Beginner
+
+<br>
+  
+## :sparkles:Technical Stack
 
 ### Programming Languages
 - ___Python___
@@ -26,7 +35,6 @@ Hi there, I am Diana Savelyeva ✨
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
 
-
 ### Frameworks
 - ___Django, Python___
 - ___Flask, Python___
@@ -36,7 +44,6 @@ Hi there, I am Diana Savelyeva ✨
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;
 </p>
-
 
 ### Databases
 - ___PostgreSQL___
@@ -48,8 +55,6 @@ Hi there, I am Diana Savelyeva ✨
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  />&nbsp;
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />&nbsp;
 </p>
-
-
 ### Other
 - ___Git___
 - ___HTML___
@@ -61,12 +66,22 @@ Hi there, I am Diana Savelyeva ✨
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  />&nbsp;
 </p>
 
-## Soft Skills
+<br>
 
-## Education
+## :sparkles:Soft Skills
+  - ___Learnability___
+  - ___Sociability___
+  - ___Responsibility___
+  - ___Teamwork___
+  - ___Leading___
+  - ___Purposefulness___
+
+<br>
+
+## :sparkles:Education
 
 
-## Experience
+## :sparkles:Experience
 
 ### Work experience
 
@@ -74,7 +89,7 @@ Hi there, I am Diana Savelyeva ✨
 
 ### Tournaments and hackathons
 
-## General GitHub activity
+## :sparkles:General GitHub activity
 <p>
    <a href="https://github-readme-stats.vercel.app/api?username=ITSamantha&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=ITSamantha&show_icons=true&count_private=true"/></a>
