@@ -1,4 +1,4 @@
-#= Python Backend developer
+# Python Backend developer
 
 Hi there, I am Diana Savelyeva ✨
 
