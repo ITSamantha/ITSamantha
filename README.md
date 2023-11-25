@@ -13,7 +13,7 @@ Hi there, I am Diana Savelyeva ✨
 
 ### Programming Languages
 
-![image](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 ### Frameworks
 
 ### Databases
