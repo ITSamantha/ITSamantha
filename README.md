@@ -1,20 +1,30 @@
 # Python Backend developer
 
+## About me
 Hi there, I am Diana Savelyeva ✨
 
-<!--
-**ITSamantha/ITSamantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages
+
+## Hard Skills
+
+
+
+## Soft Skills
+
+## Education
+
+
+## Experience
+
+### Work experience
+
+### Projects
+
+### Tournaments and hackathons
+
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
