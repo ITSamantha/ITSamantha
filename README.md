@@ -130,10 +130,16 @@ My main technical stack includes Python, especially Django and Flask. Also I hav
 
   <br>
   
-#### Personal projects
+### Personal projects
 
 
 ### Tournaments and hackathons
+- **Hackaton**. Telegram bot for inspection of insurance facilities for ___Sovkombank at Adventure League 2023___ using Python, Flask, PHP, Laravel.
+  https://github.com/ITSamantha/adventure-league-2023
+- **Hackaton**. Railway traffic map for ___Data Wagon 2023 for the First Freight Company___ using Python, React.
+  https://github.com/ITSamantha/data-wagon-2023
+
+<br>
 
 ## :sparkles:Plans for future
 I appreciate self-developing and it is the most important sphere in my life. So I tend to improve my skills as programmer:
