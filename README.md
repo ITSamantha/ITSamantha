@@ -9,11 +9,11 @@ Hi there, I am Diana Savelyeva ✨
 
 ## Languages
 
-## Hard Skills
+## Technical Stack
 
 ### Programming Languages
 
-<img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 ### Frameworks
 
 ### Databases
@@ -34,5 +34,5 @@ Hi there, I am Diana Savelyeva ✨
 
 ### Tournaments and hackathons
 
-
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+## General GitHub activity
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITSamantha)](https://github.com/anuraghazra/github-readme-stats)
