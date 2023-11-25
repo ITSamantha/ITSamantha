@@ -1,7 +1,16 @@
 # Python Backend developer
 
 ## :sparkles:About me
-Hi there, I am Diana Savelyeva  :wave:
+Good day! :wave:
+
+I am Savelyeva Diana. My age is 20. I am a perspective and hardworking programmer. 
+
+I am student of ITMO University, 3rd year of education. My program of education is Software Engineering. The specialization of my educational program is System and Application software.
+
+Currently I am living in Saint-Petersburg, Russia.
+
+My main technical stack includes Python, especially Django and Flask. Also I have an experience in developing Telegram Bots on Python. In addition, I had an experience of writing Windows Forms applications using C#.
+
 
 <br>
 
@@ -82,14 +91,51 @@ Hi there, I am Diana Savelyeva  :wave:
 
 ## :sparkles:Education
 
+- ### **ITMO University**
+
+    ___2021 - 2025___
+
+    ___Faculty___: Faculty of Software Engineering and Computer Engineering
+
+    ___Educational program___: Software Engineering
+
+    ___Specialization___: System and Application software
+
+<br>
 
 ## :sparkles:Experience
 
 ### Work experience
 
+  - ### **Online school of programming Rebotica**
+    
+    ___10.10 - present___
+    
+    ___Position___: Mentor of programming on Python
+
+<br>
+
 ### Projects
 
+#### Course works
+- The subject "Object-oriented programming". The course work consisted in the development of a console application for a given subject area "Bookstore".
+- Subject "Theory of algorithms and formal languages". The course work consisted in writing a single-tape and multi-tape Turing machine corresponding to a certain rule in the chosen programming language.
+- The subject of "Databases". The course work was to create an information system for the subject area "Video rentals of the city".
+- The subject "Architecture and software design". The course work consisted in designing the application architecture and applying patterns for the financial planning system of a small enterprise, as well as writing several application modules.
+- The subject is "Operating systems". The course work consisted in designing your own file system based on existing tools, writing an emulator of the designed file system, as well as developing a process scheduler algorithm and implementing its emulator.
+
+#### Personal projects
+
+
 ### Tournaments and hackathons
+
+## :sparkles:Plans for future
+I appreciate self-developing and it is the most important sphere in my life. So I tend to improve my skills as programmer:
+- NoSQL, MongoDB
+- FastAPI
+- aiohttp
+- asyncio
+- Docker, Docker-Compose, Helm, Kubernetes
 
 ## :sparkles:General GitHub activity
 <p>
