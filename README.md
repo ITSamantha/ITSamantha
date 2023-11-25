@@ -1,4 +1,6 @@
-### Hi there, I am Diana ✨
+# My CV
+
+Hi there, I am Diana Savelyeva ✨
 
 <!--
 **ITSamantha/ITSamantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
