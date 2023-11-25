@@ -131,7 +131,12 @@ My main technical stack includes Python, especially Django and Flask. Also I hav
   <br>
   
 ### Personal projects
-
+- Clothes shop web-app Aesthetic Shop using HTML, CSS, JS, Python, Django.
+  https://github.com/ITSamantha/aesthetic-shop
+- VK Hashtag Tracker for processing hashtags, making recommendations on posts using Python.
+  https://github.com/ITSamantha/vk-hashtag-tracker
+- Desktop electronic recipe book MyCookbook using C#.
+  https://github.com/ITSamantha/my-cookbook
 
 ### Tournaments and hackathons
 - **Hackaton**. Telegram bot for inspection of insurance facilities for ___Sovkombank at Adventure League 2023___ using Python, Flask, PHP, Laravel.
