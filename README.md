@@ -3,7 +3,7 @@
 ## :sparkles:About me
 Good day! :wave:
 
-I am Savelyeva Diana. My age is 20. I am a perspective and hardworking programmer. :computer:
+I am Savelyeva Diana. My age is 20. :computer:
 
 I am student of ITMO University, 3rd year of education. My program of education is Software Engineering. The specialization of my educational program is System and Application software.
 
