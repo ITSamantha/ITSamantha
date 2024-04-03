@@ -108,7 +108,7 @@ My main technical stack includes Python, especially Django, FastAPI. Also I have
 
   - ### **Online school of programming Rebotica**
     
-    ___10.10 - 03.04___
+    ___10.10.23 - 03.04.24___
     
     ___Position___: Mentor of programming on Python
 
