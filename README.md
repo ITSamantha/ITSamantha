@@ -108,7 +108,7 @@ My main technical stack includes Python, especially Django, FastAPI. Also I have
 
   - ### **Online school of programming Rebotica**
     
-    ___10.10 - present___
+    ___10.10 - 03.04___
     
     ___Position___: Mentor of programming on Python
 
@@ -123,13 +123,9 @@ My different types of projects:
   
   https://github.com/ITSamantha/aesthetic-shop
   
-- VK Hashtag Tracker for processing hashtags, making recommendations on posts using Python.
-  
-  https://github.com/ITSamantha/vk-hashtag-tracker
-  
-- Desktop electronic recipe book MyCookbook using C#.
-  
-  https://github.com/ITSamantha/my-cookbook
+- Otiva: An app for publishing advertisements
+
+  https://github.com/ITSamantha/otiva
 
   <br>
 
@@ -145,7 +141,6 @@ My different types of projects:
 <br>
   
 ### Course works
-  ___PL: C#___ https://github.com/ITSamantha/operational-systems-course-work
 - The subject is "Information systems and databases". The course work consisted of developing web-app (clothes online shop) using HTML, CSS, JS and Python, Django.
   
   ___PL: Python   Framework: Django___ https://github.com/ITSamantha/db-clothes-shop-course-work
