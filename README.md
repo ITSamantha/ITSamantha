@@ -47,7 +47,7 @@ My main technical stack includes Python, especially Django, FastAPI. Also I have
 ### Frameworks
 - ___Django, Python___
 - ___Flask, Python___
-- ___Windows Forms, C#___
+- ___FastAPI, Python___
   
 <p align='center' >
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;
