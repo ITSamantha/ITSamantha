@@ -13,6 +13,7 @@ My main technical stack includes Python, especially Django, FastAPI. Also I have
 
 
 <br>
+
 ## Contacts
 <img width=20 height=20 src="https://www.svgrepo.com/show/452115/telegram.svg" />&nbsp;Telegram: [di_svlv](https://t.me/di_svlv)
 
