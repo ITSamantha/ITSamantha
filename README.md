@@ -15,7 +15,7 @@ My main technical stack includes Python, especially Django, FastAPI. Also I have
 <br>
 
 ## Contacts
-<img width=20 height=20 src="https://it-news.online/wp-content/uploads/2023/05/Telegram.png" />&nbsp;Telegram: [di_svlv](https://t.me/di_svlv)
+<img width=20 height=20 src="https://www.svgrepo.com/show/452115/telegram.svg" />&nbsp;Telegram: [di_svlv](https://t.me/di_svlv)
 
 <img width=20 height=20 src="https://github.com/ITSamantha/ITSamantha/assets/100091168/1faf78f0-80fc-4e03-990e-f02c1b48c555" />&nbsp;Gmail: diana.saveleva.dos@gmail.com
 
