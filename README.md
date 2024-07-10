@@ -53,9 +53,9 @@ ___My tech stack:___
 </p>
 
 ### Frameworks
+- ___FastAPI, Python___ (SQLAlchemy, pydantic, alembic, etc)
 - ___Django, Python___
-- ___Flask, Python___
-- ___FastAPI, Python___
+- ___Django Rest Framework, Python___
   
 <p align='center' >
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />&nbsp;
@@ -76,6 +76,10 @@ ___My tech stack:___
 
 ### Other
 - ___Git___
+- ___Docker___
+- ___CI/CD (gitlab, github)___
+- ___Linux___
+- ___React___
 - ___HTML___
 - ___CSS___
   
