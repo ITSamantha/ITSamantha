@@ -123,17 +123,17 @@ ___My tech stack:___
     ___06.24 - Present___
     
     ___Position___: Backend Developer
-      1. Development and testing of web applications (frontend, backend) in Python (FastAPI, pydantic, SQLAlchemy, alembic, pytest).
-      2. Telegram bot development in Python (python-telegram-bot).
-      3. integration, deployment of applications on the server.
+      - Development and testing of web applications (frontend, backend) in Python (FastAPI, pydantic, SQLAlchemy, alembic, pytest).
+      - Telegram bot development in Python (python-telegram-bot).
+      - Integration, deployment of applications on the server.
 
   - ### **Freelance**
     
     ___01.24 - 05.24___
     
     ___Position___: Python Backend Developer
-      1. Development and testing of web applications (backend) in Python (FastAPI, pydantic, SQLAlchemy, alembic, pytest).
-      2. integration, deployment of applications on the server.
+      - Development and testing of web applications (backend) in Python (FastAPI, pydantic, SQLAlchemy, alembic, pytest).
+      - Integration, deployment of applications on the server.
 
     
   - ### **Online school of programming Rebotica**
@@ -141,7 +141,7 @@ ___My tech stack:___
     ___10.23 - 04.24___
     
     ___Position___: Mentor of programming on Python
-      1. Teaching Python programming.
+      - Teaching Python programming.
 
 
 <br>
