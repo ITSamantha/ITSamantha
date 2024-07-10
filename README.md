@@ -25,7 +25,7 @@ ___My tech stack:___
 
 <img width=20 height=20 src="https://github.com/ITSamantha/ITSamantha/assets/100091168/1faf78f0-80fc-4e03-990e-f02c1b48c555" />&nbsp;Gmail: diana.saveleva.dos@gmail.com
 
-<img width=40 height=30 src="https://avatars.dzeninfra.ru/get-zen_doc/10147568/pub_64b6a94b9767a00b6f97c379_64b6aba054abe050d83bb982/scale_1200" />&nbsp;hh.ru: [link](https://spb.hh.ru/resume/1e9d3323ff0c3bf7a00039ed1f753161444f71)
+<img width=40 height=20 src="https://avatars.dzeninfra.ru/get-zen_doc/10147568/pub_64b6a94b9767a00b6f97c379_64b6aba054abe050d83bb982/scale_1200" />&nbsp;hh.ru: [link](https://spb.hh.ru/resume/1e9d3323ff0c3bf7a00039ed1f753161444f71)
 
 <br>
 
