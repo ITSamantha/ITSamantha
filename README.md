@@ -144,13 +144,11 @@ ___My tech stack:___
       - Teaching Python programming.
 
 <br>
-
 ### Courses
 
  - ### **Internship for VizorLabs backend developers**
     
     ___САТЕЛ, Python Backend Developer___
-
 <br>
 
 ## :sparkles:Projects
