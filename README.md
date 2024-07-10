@@ -5,13 +5,16 @@ Good day! :wave:
 
 I am Savelyeva Diana. My age is 21. :computer:
 
-I am student of ITMO University, 3rd year of education. My program of education is Software Engineering. The specialization of my educational program is System and Application software.
-
+I am student of ITMO University, 4th year of education. My program of education is Software Engineering.
 Currently I am living in Saint-Petersburg, Russia.
 
-My main technical stack includes Python, especially Django, FastAPI. Also I have an experience in developing Telegram Bots on Python.
+The main focus of my work is Python Backend💻
+My tech stack:
+  1. Programming languages and frameworks: Python, FastAPI (SQLAlchemy, pydantic, alembic), Django, DRF. I also had experience in developing Telegram bots (Telegram Bot API, python-telegram-bot).
+  2. databases: PostgreSQL, MySQL, SQLite. 3.
+  3. Other tools and technologies: SQL, REST, Git, Docker, Linux, React, CI/CD (gitlab, github).
 
-
+    
 <br>
 
 ## Contacts
