@@ -142,8 +142,8 @@ ___My tech stack:___
     
     ___Position___: Mentor of programming on Python
       - Teaching Python programming.
-
 <br>
+
 ### Courses
 
  - ### **Internship for VizorLabs backend developers**
