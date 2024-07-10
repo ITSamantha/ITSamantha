@@ -11,7 +11,7 @@ Currently I am living in Saint-Petersburg, Russia.
 The main focus of my work is Python Backend💻
 My tech stack:
   1. Programming languages and frameworks: Python, FastAPI (SQLAlchemy, pydantic, alembic), Django, DRF. I also had experience in developing Telegram bots (Telegram Bot API, python-telegram-bot).
-  2. databases: PostgreSQL, MySQL, SQLite. 3.
+  2. Databases: PostgreSQL, MySQL, SQLite. 3.
   3. Other tools and technologies: SQL, REST, Git, Docker, Linux, React, CI/CD (gitlab, github).
 
     
@@ -21,6 +21,8 @@ My tech stack:
 <img width=20 height=20 src="https://www.svgrepo.com/show/452115/telegram.svg" />&nbsp;Telegram: [di_svlv](https://t.me/di_svlv)
 
 <img width=20 height=20 src="https://github.com/ITSamantha/ITSamantha/assets/100091168/1faf78f0-80fc-4e03-990e-f02c1b48c555" />&nbsp;Gmail: diana.saveleva.dos@gmail.com
+
+<img width=20 height=20 src="https://avatars.mds.yandex.net/i?id=d097b5cf6a5f919b9aa8aa3b8fe2052025d47587-9097932-images-thumbs&n=13" />&nbsp;hh.ru: [link](https://spb.hh.ru/resume/1e9d3323ff0c3bf7a00039ed1f753161444f71)
 
 <br>
 
