@@ -143,18 +143,21 @@ ___My tech stack:___
     ___Position___: Mentor of programming on Python
       - Teaching Python programming.
 
+<br>
+
+### Courses
+
+ - ### **Internship for VizorLabs backend developers**
+    
+    ___САТЕЛ, Python Backend Developer___
 
 <br>
 
 ## :sparkles:Projects
 
-My different types of projects:
+Below is information about my main, most serious and interesting projects:
 
 ### Personal projects
-- Clothes shop web-app Aesthetic Shop using HTML, CSS, JS, Python, Django.
-  
-  https://github.com/ITSamantha/aesthetic-shop
-  
 - Otiva: An app for publishing advertisements
 
   https://github.com/ITSamantha/otiva
