@@ -120,7 +120,7 @@ ___My tech stack:___
 
   - ### **TrustRDP**
     
-    ___06.24 - Present___
+    ___06.2024 - Present___
     
     ___Position___: Backend Developer
       - Development and testing of web applications (frontend, backend) in Python (FastAPI, pydantic, SQLAlchemy, alembic, pytest).
@@ -129,7 +129,7 @@ ___My tech stack:___
 
   - ### **Freelance**
     
-    ___01.24 - 05.24___
+    ___01.2024 - 05.2024___
     
     ___Position___: Python Backend Developer
       - Development and testing of web applications (backend) in Python (FastAPI, pydantic, SQLAlchemy, alembic, pytest).
@@ -138,7 +138,7 @@ ___My tech stack:___
     
   - ### **Online school of programming Rebotica**
     
-    ___10.23 - 04.24___
+    ___10.2023 - 04.2024___
     
     ___Position___: Mentor of programming on Python
       - Teaching Python programming.
