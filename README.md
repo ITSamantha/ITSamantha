@@ -14,7 +14,7 @@ The main focus of my work is Python Backend💻
 
 ___My tech stack:___ 
   1. ***Programming languages and frameworks***: Python, FastAPI (SQLAlchemy, pydantic, alembic), Django, DRF. I also had experience in developing Telegram bots (Telegram Bot API, python-telegram-bot).
-  2. ***Databases***: PostgreSQL, MySQL, SQLite. 3.
+  2. ***Databases***: PostgreSQL, MySQL, SQLite.
   3. ***Other tools and technologies***: SQL, REST, Git, Docker, Linux, React, CI/CD (gitlab, github).
 
     
