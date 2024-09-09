@@ -118,6 +118,12 @@ ___My tech stack:___
 ## :sparkles:Experience
 ### Work experience
 
+  - ### **Datagile**
+    
+    ___07.2024 - Present___
+    
+    ___Position___: Python Developer
+  
   - ### **TrustRDP**
     
     ___06.2024 - Present___
