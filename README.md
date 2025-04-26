@@ -3,7 +3,7 @@
 ## :sparkles:About me
 Good day! :wave:
 
-I am Savelyeva Diana. My age is 21.☺️
+I am Savelyeva Diana. My age is 22.☺️
 
 I am student of ITMO University, 4th year of education. My program of education is Software Engineering.
 Currently I am living in Saint-Petersburg, Russia.
